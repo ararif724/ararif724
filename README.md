@@ -8,7 +8,7 @@ Email: ararif724@gmail.com | Phone: +880-1976156715
 
 ## Summary
 
-Certified PHP Developer with expertise in Laravel, JavaScript, and various web technologies. Proven track record in leading and developing projects for local and international clients. Strong communication skills and a passion for creating innovative solutions.
+Innovative and certified Laravel Developer with a solid background in PHP and a diverse skill set encompassing Laravel, JavaScript, and various web technologies. Proven expertise in leading and developing projects for a global clientele, consistently delivering high-quality solutions. Known for a collaborative approach, strong problem-solving skills, and a keen passion for staying abreast of the latest industry trends. Excited about leveraging technical proficiency and creativity to drive the success of dynamic and challenging projects.
 
 ---
 
