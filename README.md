@@ -81,4 +81,4 @@ Sherpur Polytechnic Institute - Sherpur
 ### Certifications
 
 **Certified Laravel Developer**
-July 2023 to Present
+July 2023
