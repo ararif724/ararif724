@@ -1,66 +1,84 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+**Arifur Rahman Arif** <br>
+Dhaka, Bangladesh <br>
+ararif724@gmail.com | +880-1976156715 <br>
+[ararif.me](https://ararif.me) | [LinkedIn](https://www.linkedin.com/in/ararifdotme) | [GitHub](https://github.com/ararif724) | [Upwork](https://www.upwork.com/freelancers/mdarifurrahmana) | [Fiverr](https://www.fiverr.com/arifur724)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+---
 
-## About Laravel
+### Summary
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Dedicated and certified PHP Developer with a diverse skill set, specializing in Laravel, JavaScript, and various web technologies. Proven track record in developing and leading projects for both local and international clients. Strong communication skills and a passion for creating innovative solutions.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+---
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Work Experience
 
-## Learning Laravel
+**PHP Developer (Part-time)**
+Designful - Ottawa, ON
+*September 2022 to Present*
+- Collaborated on 2 popular WordPress plugin projects: Stylish Cost Calculator and Stylish Price List.
+- Developed a custom SMS sending app using Twilio API for seamless SMS communication.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+**Back-End Developer (Remote)**
+Bevy Commerce Inc - Toronto, ON
+*May 2022 to Present*
+- Contributed to the success of Bevy Design project with a 4.7 rating on Shopify app store and over 10k users.
+- Led the development of Bevy Metafields, Bevy Monitor, and Bevy Processor projects.
+- Spearheaded the creation of a WordPress plugin, Boudoir Album, for a client website.
+- Developed an Integration Platform as a Service (iPaaS) web application.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+**PHP Developer**
+IT Grow Division Ltd - Dhaka
+*July 2021 to April 2022*
+- Collaborated on the InstaForex TickTrader project with over 7,000,000 users and $10.0M-$15.0M annual revenue.
+- Designed and implemented multiple responsive landing pages using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+**PHP Developer**
+Zoo Info Tech - Dhaka
+*September 2020 to June 2021*
+- Contributed to a travel agency web application, integrating multiple flight APIs such as Sabre and Amadeus.
 
-## Laravel Sponsors
+**PHP Programmer**
+The Royal Scientific Publication - Dhaka
+*March 2019 to August 2020*
+- Developed an HRM software with an automatic attendance system using a fingerprint sensor.
+- Created a distributed web application to detect fake books.
+- Designed and built multiple responsive websites using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, and MySQL.
+- Developed web scraping browser extensions.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+---
 
-### Premium Partners
+### Education
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+**Diploma in Engineering in Computer Technology**
+Sherpur Polytechnic Institute - Sherpur
+*July 2014 to September 2018*
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Skills
 
-## Code of Conduct
+- PHP
+- Laravel (Certified)
+- JavaScript (NodeJS, ExpressJS, ReactJS, VueJS, ElectronJS)
+- HTML5, CSS, Bootstrap
+- MySQL, MongoDB
+- WordPress Theme & Plugin development
+- Heroku, Git
+- Twilio, Plivo & Telnyx IVR App
+- Shopify App development
+- REST, JSON, APIs
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+### Languages
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Bengali: Fluent
+- English: Intermediate
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Certifications
+
+**Certified Laravel Developer**
+July 2023 to Present
