@@ -1,46 +1,40 @@
 # Arifur Rahman Arif
 
-Dhaka, Bangladesh  
-[ararif.me](https://ararif.me) | [LinkedIn](https://www.linkedin.com/in/ararifdotme) | [GitHub](https://github.com/ararif724) | [Upwork](https://www.upwork.com/freelancers/mdarifurrahmana) | [Fiverr](https://www.fiverr.com/arifur724)  
+Dhaka, Bangladesh | [ararif.me](https://ararif.me) | [LinkedIn](https://www.linkedin.com/in/ararifdotme) | [GitHub](https://github.com/ararif724) | [Upwork](https://www.upwork.com/freelancers/mdarifurrahmana) | [Fiverr](https://www.fiverr.com/arifur724)  
 Email: ararif724@gmail.com | Phone: +880-1976156715
 
 ---
 
-## Summary
+## 💼 Professional Summary
 
-Innovative and certified Laravel Developer with a solid background in PHP and a diverse skill set encompassing Laravel, JavaScript, and various web technologies. Proven expertise in leading and developing projects for a global clientele, consistently delivering high-quality solutions. Known for a collaborative approach, strong problem-solving skills, and a keen passion for staying abreast of the latest industry trends. Excited about leveraging technical proficiency and creativity to drive the success of dynamic and challenging projects.
+Dedicated and certified Laravel Developer with over 5 years of experience in web application development. Proven expertise in PHP, MySQL, JavaScript, and a variety of web technologies. Passionate about creating innovative solutions and leading projects for both local and international clients. Strong communication skills and a commitment to continuous learning.
 
 ---
 
-## Work Experience
+## 🚀 Work Experience
 
-**PHP Developer (Part-time)**  
-*Designful - Ottawa, ON*  
+### PHP Developer (Part-time) | Designful - Ottawa, ON
 *September 2022 to Present*
 - Collaborated on 2 popular WordPress plugin projects: Stylish Cost Calculator and Stylish Price List.
-- Developed a custom SMS sending app using Twilio API, enhancing seamless SMS communication.
+- Developed a custom SMS sending app using Twilio API for seamless communication.
 
-**Back-End Developer (Remote)**  
-*Bevy Commerce Inc - Toronto, ON*  
+### Back-End Developer (Remote) | Bevy Commerce Inc - Toronto, ON
 *May 2022 to Present*
-- Contributed to the success of Bevy Design project with a 4.7 rating on Shopify app store and over 10k users.
-- Led the development of Bevy Metafields, Bevy Monitor, and Bevy Processor projects.
-- Spearheaded the creation of a WordPress plugin, Boudoir Album, for a client website.
-- Developed an Integration Platform as a Service (iPaaS) web application.
+- Led the development of Bevy Design with a 4.7 rating on Shopify app store and over 10k users.
+- Spearheaded projects like Bevy Metafields, Bevy Monitor, and Bevy Processor.
+- Developed a WordPress plugin, Boudoir Album, for a client website.
+- Created an Integration Platform as a Service (iPaaS) web application.
 
-**PHP Developer**  
-*IT Grow Division Ltd - Dhaka*  
+### PHP Developer | IT Grow Division Ltd - Dhaka
 *July 2021 to April 2022*
 - Collaborated on the InstaForex TickTrader project with over 7,000,000 users and $10.0M-$15.0M annual revenue.
 - Designed and implemented multiple responsive landing pages using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
-**PHP Developer**  
-*Zoo Info Tech - Dhaka*  
+### PHP Developer | Zoo Info Tech - Dhaka
 *September 2020 to June 2021*
 - Contributed to a travel agency web application, integrating multiple flight APIs such as Sabre and Amadeus.
 
-**PHP Programmer**  
-*The Royal Scientific Publication - Dhaka*  
+### PHP Programmer | The Royal Scientific Publication - Dhaka
 *March 2019 to August 2020*
 - Developed an HRM software with an automatic attendance system using a fingerprint sensor.
 - Created a distributed web application to detect fake books.
@@ -49,18 +43,17 @@ Innovative and certified Laravel Developer with a solid background in PHP and a 
 
 ---
 
-## Education
+## 🎓 Education
 
-**Diploma in Engineering in Computer Technology**  
-*Sherpur Polytechnic Institute - Sherpur*  
+### Diploma in Engineering in Computer Technology | Sherpur Polytechnic Institute - Sherpur
 *July 2014 to September 2018*
 
 ---
 
-## Skills
+## 🚀 Skills
 
-- **Languages:** PHP (Certified), JavaScript, HTML5, CSS, SQL
-- **Frameworks:** Laravel, NodeJS, ExpressJS, ReactJS, VueJS, ElectronJS
+- **Languages:** PHP, JavaScript, HTML5, CSS, SQL
+- **Frameworks:** Laravel (Certified), NodeJS, ExpressJS, ReactJS, VueJS, ElectronJS
 - **Databases:** MySQL, MongoDB
 - **CMS:** WordPress Theme & Plugin development
 - **Tools:** Heroku, Git
@@ -69,14 +62,35 @@ Innovative and certified Laravel Developer with a solid background in PHP and a 
 
 ---
 
-## Languages
+## 🌐 Languages
 
 - Bengali: Fluent
 - English: Intermediate
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
-**Certified Laravel Developer**  
-*July 2023*
+**Certified Laravel Developer** | *July 2023*
+
+---
+
+## 🌟 Achievements
+
+- Contributed to the success of high-profile projects with millions of users and substantial annual revenue.
+- Led the development of projects with high ratings and user satisfaction on platforms like Shopify.
+- Recognized for innovative solutions and strong project leadership.
+
+---
+
+## 🌐 Portfolio
+
+Explore my portfolio at [ararif.me](https://ararif.me) to view some of my key projects and contributions.
+
+---
+
+## 📧 Contact
+
+Feel free to contact me at ararif724@gmail.com or +880-1976156715.
+
+---
