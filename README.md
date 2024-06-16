@@ -13,17 +13,17 @@ Dedicated and certified Laravel Developer with over 5 years of experience in cra
 
 ## 💼 **Work Experience**
 
-### **🌟 PHP Developer (Part-time) | Designful - Ottawa, ON**
-*September 2022 to Present*
-- Collaborated on 2 popular WordPress plugin projects: Stylish Cost Calculator and Stylish Price List.
-- Developed a custom SMS sending app using Twilio API for seamless communication.
-
 ### **🚀 Back-End Developer (Remote) | Bevy Commerce Inc - Toronto, ON**
 *May 2022 to Present*
 - Led the development of Bevy Design with a 4.7 rating on Shopify app store and over 10k users.
 - Spearheaded projects like Bevy Metafields, Bevy Monitor, and Bevy Processor.
 - Developed a WordPress plugin, Boudoir Album, for a client website.
 - Created an Integration Platform as a Service (iPaaS) web application.
+
+### **🌟 PHP Developer (Part-time) | Designful - Ottawa, ON**
+*September 2022 to Jun 2024*
+- Collaborated on 2 popular WordPress plugin projects: Stylish Cost Calculator and Stylish Price List.
+- Developed a custom SMS sending app using Twilio API for seamless communication.
 
 ### **🔧 PHP Developer | IT Grow Division Ltd - Dhaka**
 *July 2021 to April 2022*
