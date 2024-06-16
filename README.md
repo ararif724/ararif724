@@ -7,7 +7,7 @@ Dhaka, Bangladesh | [ararif.me](https://ararif.me) | [LinkedIn](https://www.link
 
 ## 👨‍💻 **Professional Summary**
 
-Dedicated and certified Laravel Developer with over 5 years of experience in crafting elegant web solutions. Proficient in PHP, MySQL, JavaScript, and various web technologies. A creative thinker with a passion for innovative development and a proven track record of successful project leadership.
+Dedicated and certified Laravel Developer with over 5 years of experience in crafting elegant web solutions. Proficient in PHP, MySQL, JavaScript, and various web technologies. A creative thinker with a passion for innovative development and a proven track record of successful project.
 
 ---
 
