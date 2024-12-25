@@ -21,8 +21,6 @@ Highly skilled and results-driven **Full-Stack Software Developer** with over 5 
 
 ## Experience
 
-### Full-Time Experience
-
 **Back-End Developer** *(Remote)*  
 [Bevy Commerce Inc](https://bevycommerce.com/) – Toronto, Canada  
 *05/2022 – Current*  
@@ -47,8 +45,6 @@ Highly skilled and results-driven **Full-Stack Software Developer** with over 5 
 - Developed **HRM software** with **automatic attendance** using a **fingerprint sensor**.  
 - Built a **distributed web application** to detect **fake books**.  
 - Developed multiple **web scraping browser extensions**.
-
-### Part-Time Experience
 
 **PHP Developer** *(Remote, Part-Time)*  
 [Designful](https://designful.ca/) – Ottawa, ON, Canada  
